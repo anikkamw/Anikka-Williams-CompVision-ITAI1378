@@ -1,5 +1,8 @@
 # Anikka Williams - Computer Vision Portfolio
 
+## Course Overview
+This repository contains my work for the Computer Vision course, focusing on image processing, convolutional neural networks, and real-time object detection.
+
 ## About Me
 My name is Anikka Williams, and I am pursuing a technical degree in Artificial Intelligence at Houston City College. My work focuses on developing high-speed, real-time detection systems for specialized clinical and environmental use cases.
 
