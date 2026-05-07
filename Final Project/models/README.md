@@ -1,1 +1,8 @@
+# Model Documentation
+This folder contains the weights for the MangeVision detection system.
 
+- **Primary Model:** `best.pt` (YOLOv8 Nano)
+- **Framework:** Ultralytics YOLOv8
+- **Input Size:** 640x640
+- **Training Epochs:** 25
+- **Performance:** 2.8ms inference speed. Optimized for Demodicosis detection.
