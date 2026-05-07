@@ -1,5 +1,5 @@
 # MangeVision: AI-Driven Canine Mange Detection
-![Demo Screenshot](Screenshot 2026-05-04 205336.png)
+![Demo Screenshot](Screenshot 2026-05-06 222138.png)
 *A high-speed computer vision system utilizing YOLOv8 Nano to identify and differentiate between Demodectic and Sarcoptic mange.*
 
 ## Team Member
