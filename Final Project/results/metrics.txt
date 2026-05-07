@@ -1,0 +1,16 @@
+=== MangeVision Final Performance Metrics ===
+
+Model: YOLOv8 Nano (yolov8n.pt)
+Inference Speed: 2.0ms (Inference) / 3.2ms (Total)
+Preprocessing: 0.2ms
+Postprocessing: 3.3ms
+
+--- Mean Average Precision (mAP50) ---
+Overall mAP: 53.7%
+Demodicosis: 75.3%
+Scabies: 32.2%
+
+--- Evaluation Summary ---
+The system meets the < 2.0s speed requirement. 
+Demodicosis detection shows high clinical reliability. 
+Scabies detection is impacted by low-contrast lesions in the raw data.
